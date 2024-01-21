@@ -1,16 +1,12 @@
 # `XLICON-V2-MD`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
-
-<h1 align="center"> Thanks To  GURU322
-</h1>
 <p align="center">
   
 >XLICON-V2-MD is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
-
 </p>
 
 ## 🌟 `Bot Intro and Features`
@@ -155,6 +151,12 @@ Thanks to all contributors! 🚀
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+## `NEW DEPLOYMENT`
+NOW Deploy👇
+<br>
+## DEPLOY IN KOYEB    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
@@ -179,9 +181,11 @@ Thanks to all contributors! 🚀
 - **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Kchd5WS2UmILfGEP523DqL" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+   
+  ## ``Support Group``
+   
+   [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/EXzYWTGUsbuLdWNjwJLz9A)
+
 <a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
